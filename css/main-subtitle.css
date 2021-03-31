@@ -1,0 +1,19 @@
+.main-subtitle{
+  font-size: 22px;
+  font-weight: 500;
+  line-height: 26px;
+}
+
+.-left{
+  text-align: left;
+}
+
+.-right{
+  text-align: right;
+}
+
+.-bold {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+}

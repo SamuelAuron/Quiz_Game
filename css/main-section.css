@@ -1,0 +1,25 @@
+.main-section {
+  max-width: 1400px;
+  background-color: #FFF;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 55px auto;
+  overflow: auto;
+}
+
+.main-section .container-right{
+  max-width: 900px;
+  position:relative;
+  float: left;
+  margin-right: 25px;
+}
+
+.main-section .container-left{
+  position:relative;
+  float: left;
+}
+
+.main-section .buttons{
+  display: flex;
+  justify-content: space-evenly;
+}
